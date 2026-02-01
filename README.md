@@ -12,7 +12,7 @@ Interactive Looker Studio dashboard identifying financial exposure and latency i
 *** Engineered a "Financial Exposure" metric to quantify the daily cost of downtime.
 
 ## Executive Dashboard
-(DASHBOARD.jpeg)
+![Executive Dashboard](DASHBOARD.jpeg)
 
 *** Developed a single-page audit tool in Looker Studio.
 *** Highlighted a total financial exposure of $444k across 12 high-risk vendors.
