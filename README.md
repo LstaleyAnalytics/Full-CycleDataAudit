@@ -4,7 +4,7 @@ This project originates from my experience as an Independent Claims Adjuster wor
 Interactive Looker Studio dashboard identifying financial exposure and latency in contractor onboarding.
 
 ## Raw Data Extraction
-![Raw Data](RAWDATA.jpeg)
+![Raw Data](RAWDATA.jpg)
 *** Handled inconsistent vendor naming conventions & incomplete data fields.
 
 ## Data Trasnformation & Cleaning:
