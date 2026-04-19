@@ -7,21 +7,21 @@ Interactive Looker Studio dashboard identifying financial exposure and latency i
 ![Raw Data](RAWDATA.jpg)
 *** Handled inconsistent vendor naming conventions & incomplete data fields.
 
-## Data Trasnformation & Cleaning:
+## Data Transformation & Cleaning:
 ![Data Cleaning](DATACLEANING.jpg)
-*** Standardized 23 vendor firms.
-*** Calculated "Idle Days" using date-diff logic between start date and system provisioning date.
-*** Engineered a "Financial Exposure" metric to quantify the daily cost of downtime.
+ Standardized 23 vendor firms.
+ Calculated "Idle Days" using date-diff logic between start date and system provisioning date.
+ Engineered a "Financial Exposure" metric to quantify the daily cost of downtime.
 
 ## Executive Dashboard
 ![Executive Dashboard](DASHBOARD.jpeg)
 
-*** Developed a single-page audit tool in Looker Studio.
-*** Highlighted a total financial exposure of $444k across 12 high-risk vendors.
+  Developed a single-page audit tool in Looker Studio.
+  Highlighted a total financial exposure of $444k across 12 high-risk vendors.
 
 ## Key Features
 
-*** Interactivity: Cross-filtering allows for vendor-specific cost deep-dives.
-*** Prioriization: Heat-mapped tables instantly identify the most expensive bottlenecks
+   Interactivity: Cross-filtering allows for vendor-specific cost deep-dives.
+   Prioriization: Heat-mapped tables instantly identify the most expensive bottlenecks
 
 
