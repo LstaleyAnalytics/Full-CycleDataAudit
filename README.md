@@ -10,7 +10,9 @@ Interactive Looker Studio dashboard identifying financial exposure and latency i
 ## Data Transformation & Cleaning:
 ![Data Cleaning](DATACLEANING.jpg)
  Standardized 23 vendor firms.
+ 
  Calculated "Idle Days" using date-diff logic between start date and system provisioning date.
+ 
  Engineered a "Financial Exposure" metric to quantify the daily cost of downtime.
 
 ## Executive Dashboard
